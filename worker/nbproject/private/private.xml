@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/processors/ShareMemoryProcessor.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/app/MainApp.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/common/constant/CMDs.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/functions/GetGroupsFollowMemoryFunc.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/functions/RandomMemoriesFunc.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/model/GroupMediaMemoryModel.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/workers/ZGroupMediaMemoryWorker.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/processors/RandomMemoriesProcessor.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/model/GroupMediaDB.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/functions/ShareMemoryFunc.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/worker/base/TestWorker.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/functions/SetGroupsFollowMemoryFunc.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/processors/SetGroupsFollowMemoryProcessor.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/zgroupmediamemoryworker/processors/GetGroupsFollowMemoryProcessor.java</file>
+            <file>file:/home/lap15003/WorkPlace/ZA_Project/GroupMedia/zgroupmediamemoryworker/src/com/vng/zing/worker/base/WorkerHeader.java</file>
+        </group>
+    </open-files>
+</project-private>
